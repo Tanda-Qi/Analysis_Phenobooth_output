@@ -31,6 +31,7 @@ It includes data cleaning, strain annotation, normalization, technical replicate
 **Requirements**
 
 To run this pipeline, prepare the following files:
+
 	1.	Raw Phenobooth output
 	•	Use directly; no modification required.
 	

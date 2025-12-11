@@ -33,13 +33,16 @@ It includes data cleaning, strain annotation, normalization, technical replicate
 To run this pipeline, prepare the following files:
 	1.	Raw Phenobooth output
 	•	Use directly; no modification required.
+	
 	2.	Phenobooth_output_Summary.csv
 	•	Rename the first column to your experiment condition identifier. The naming format must follow: condition_time_plate#_technical#
+	
 	3.	Key file
 	•	Maps plate coordinates to strain names.
+	
 	4.	Exclusion file
 	•	Lists strains to remove (contamination, border strains, WT, etc.)
   
 
-Example of all the fliles are provided in the folder **"Example_input_and_key_files/" **
+Example of all the fliles are provided in the folder "Example_input_and_key_files/"
   

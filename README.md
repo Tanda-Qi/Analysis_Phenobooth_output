@@ -31,7 +31,7 @@ It includes data cleaning, strain annotation, normalization, technical replicate
 **3. Statistical Analysis**
 (Python scripts: 7)
 
-- Calculate mean, median, standard deviation, and p-values for all strains across conditions.
+- Calculate delta sizes, and p-values for all strains across conditions.
   
 - Generate final relative fitness results.
 
